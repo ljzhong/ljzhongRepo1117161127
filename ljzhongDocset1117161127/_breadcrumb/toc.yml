@@ -1,0 +1,24 @@
+- name: Tools for Apache Cordova
+  tocHref: /
+  topicHref: /
+  items:
+  - name: What our Tools do for you
+    tocHref: /first-steps/
+    topicHref: /first-steps/vs-taco-2017-intro
+    items:
+  - name: Install the Tools
+    tocHref: /first-steps/
+    topicHref: /first-steps/vs-taco-2017-install
+    items:
+  - name: Set up your iOS builds
+    tocHref: /first-steps/
+    topicHref: /first-steps/vs-taco-2017-ios-guide
+    items:
+  - name: Build your first app
+    tocHref: /first-steps/
+    topicHref: /first-steps/vs-taco-2017-first-app
+    items:
+  - name: Migrate from VS2015
+    tocHref: /first-steps/
+    topicHref: /first-steps/vs-taco-2017-migration
+    items:

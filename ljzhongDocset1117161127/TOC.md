@@ -50,11 +50,11 @@
 # Security and Optimization
 ## [Understand Cordova platform security](cordova-security-platform.md)
 ## [Authenticate users](security/cordova-security-auth.md)
-## [Encrypt local data](cordova-security-data.md)
-## [Transmit data securely](cordova-security-xmit.md)
-## [Detect security threats](cordova-security-detect.md)
-## [Quickly fix security issues](cordova-security-fix.md)
-## [Securely connecting beyond your app](cordova-security-whitlists.md)
+## [Encrypt local data](security/cordova-security-data.md)
+## [Transmit data securely](security/cordova-security-xmit.md)
+## [Detect security threats](security/cordova-security-detect.md)
+## [Quickly fix security issues](security/cordova-security-fix.md)
+## [Securely connecting beyond your app](security/cordova-security-whitlists.md)
 
 # Tips & Workarounds
 ## [General](tips-workarounds/tips-and-workarounds-general-readme.md)
