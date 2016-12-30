@@ -1,6 +1,8 @@
 ---
 layout: HubPage
 ---
+[!Video https://www.youtube.com/embed/oKWEXU8i5oc]
+
 <div id="main" class="v2">
 <div class="container">
     <h1>Tools for Apache Cordova</h1>
