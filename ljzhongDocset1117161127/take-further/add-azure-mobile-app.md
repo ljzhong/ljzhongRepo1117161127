@@ -39,7 +39,7 @@ Download the sample and open it in Visual Studio.
 
 On the Azure portal, create an Azure Mobile App backend. Follow steps in this video to create the Azure Mobile App backend. You will need to create an Azure account if you don't have one.
 
-<a href="https://www.youtube.com/watch?v=oKWEXU8i5oc" class="video" title="Create an Azure Mobile App">![Create an Azure Mobile App](media/add-azure-mobile-app/thmb-azure-mobile-app.png)</a>
+[!Video https://www.youtube.com/embed/oKWEXU8i5oc]
 
 For documentation that shows similar steps, see the [Getting Started Tutorial](https://azure.microsoft.com/en-us/documentation/articles/app-service-mobile-cordova-get-started/). You can skip the section on downloading the client app.
 
@@ -82,7 +82,7 @@ To use authentication:
 
 If you want to add support for push notifications to your Azure Mobile App, follow steps in this video.
 
-<a href="https://www.youtube.com/watch?v=ERLF0o60-04" class="video" title="Create an Azure Notification Hub">![Create an Azure Notification Hub](media/add-azure-mobile-app/thmb-azure-notif-hub.png)</a>
+[!Video https://www.youtube.com/embed/ERLF0o60-04]
 
 To follow the same steps in the tutorial, see [Create a notification hub](https://azure.microsoft.com/en-us/documentation/articles/app-service-mobile-cordova-get-started-push/#create-hub).
 
@@ -90,7 +90,7 @@ To follow the same steps in the tutorial, see [Create a notification hub](https:
 
 If you want to send push notifications to Android devices, you must configure GCM and add the GCM credentials to your notification hub. Follow steps in this video.
 
-<a href="https://www.youtube.com/watch?v=OSDKh_5R6vo" class="video" title="Configure GCM">![Configure GCM](media/add-azure-mobile-app/thmb-gcm-push-notifs.png)</a>
+[!Video https://www.youtube.com/embed/OSDKh_5R6vo]
 
 To follow the same steps in the tutorial, see [Enable Google Cloud Messaging](https://azure.microsoft.com/en-us/documentation/articles/app-service-mobile-cordova-get-started-push/#optional-configure-and-run-the-app-on-android).
 
@@ -98,7 +98,7 @@ To follow the same steps in the tutorial, see [Enable Google Cloud Messaging](ht
 
 If you want to send push notifications to iOS devices, you must configure APNS and add the APNS credentials to your notification hub. Follow steps in this video.
 
-<a href="https://www.youtube.com/watch?v=VzJxTcpUXCY" class="video" title="Configure APNS">![Configure APNS](media/add-azure-mobile-app/thmb-apns-push-notifs.png)</a>
+[!Video https://www.youtube.com/embed/VzJxTcpUXCY]
 
 To follow the same steps in the tutorial, see [Register the app for push notifications on your Apple Developer portal](https://azure.microsoft.com/en-us/documentation/articles/app-service-mobile-cordova-get-started-push/#optional-configure-and-run-on-ios).
 
@@ -108,7 +108,7 @@ To follow the same steps in the tutorial, see [Register the app for push notific
 
 If you want to send push notifications to Windows devices, you must configure WNS and add the WNS credentials to your notification hub. Follow steps in this video.
 
-<a href="https://www.youtube.com/watch?v=9pc4GglHNsY" class="video" title="Configure WNS">![Configure WNS](media/add-azure-mobile-app/thmb-wns-push-notifs.png)</a>
+[!Video https://www.youtube.com/embed/9pc4GglHNsY]
 
 To follow the same steps in the tutorial, see [Register your app for push notifications with WNS](https://azure.microsoft.com/en-us/documentation/articles/app-service-mobile-cordova-get-started-push/#optional-configure-and-run-on-windows).
 
@@ -116,7 +116,7 @@ To follow the same steps in the tutorial, see [Register your app for push notifi
 
 Watch this video to make sure your app is ready to handle push notifications:
 
-<a href="https://www.youtube.com/watch?v=C8L62__8TLg" class="video" title="Configure Cordova client app and backend">![Configure Cordova client app and backend](media/add-azure-mobile-app/thmb-client-and-backend.png)</a>
+[!Video https://www.youtube.com/embed/C8L62__8TLg]
 
 To test push notifications in your Android app:
 
@@ -138,7 +138,7 @@ Follow the steps in [Test push notifications in your Windows app](https://azure.
 
 Watch this video to add authentication to the Azure connected services sample. The video shows adding authentication with Twitter, but the steps are similar for other services as well.
 
-<a href="https://www.youtube.com/watch?v=PTrxocL2lQg" class="video" title="Add authentication to your app">![Add authentication to your app](media/add-azure-mobile-app/thmb-authentication.png)</a>
+[!Video https://www.youtube.com/embed/PTrxocL2lQg]
 
 To follow similar steps in the tutorial, see [How to: Authenticate users](https://azure.microsoft.com/en-us/documentation/articles/app-service-mobile-cordova-get-started-users/)
 
