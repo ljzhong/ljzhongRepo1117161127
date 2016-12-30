@@ -95,7 +95,6 @@ layout: HubPage
                             </div>
                             </a>
                         </li>
-
                     </ul>
                 </li>
             </ul>
