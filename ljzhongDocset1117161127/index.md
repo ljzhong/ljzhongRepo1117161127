@@ -7,10 +7,10 @@ layout: HubPage
     <ul class="pivots">
         <li>
             <a href="#taco">language</a>
-            <ul id="language">
+            <ul id="taco">
                 <li>
-                    <a href="#taco">language</a>
-                    <ul id="language1" class="cardsZ">
+                    <a href="#taco1">language</a>
+                    <ul id="taco1" class="cardsZ">
                         <li>
                             <a href="~/first-steps/vs-taco-2017-intro">
                             <div class="cardSize">
