@@ -38,7 +38,7 @@ Then follow these steps:
 
 2. On the Azure portal, create an Azure Mobile App backend. Follow steps in this video to create the Azure Mobile App backend. You will need to create an Azure account if you don't have one.
 
-    [!Video https://www.youtube.com/embed/oKWEXU8i5oc]
+    > [!Video https://www.youtube.com/embed/oKWEXU8i5oc]
 
     For documentation that shows similar steps, see the [Getting Started Tutorial](https://azure.microsoft.com/en-us/documentation/articles/app-service-mobile-cordova-get-started/). You can skip the section on downloading the client app.
 
@@ -46,7 +46,7 @@ Then follow these steps:
 
 3. Watch this video to add authentication to the Azure connected services sample. The video shows adding authentication with Twitter, but steps are similar for other services as well.
 
-    [!Video https://www.youtube.com/embed/PTrxocL2lQg]
+    > [!Video https://www.youtube.com/embed/PTrxocL2lQg]
 
     To follow similar steps in the tutorial, see [How to: Authenticate users](https://azure.microsoft.com/en-us/documentation/articles/app-service-mobile-cordova-get-started-users/)
 

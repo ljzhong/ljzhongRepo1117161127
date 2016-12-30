@@ -1,7 +1,7 @@
 ---
 layout: HubPage
 ---
-[!Video https://www.youtube.com/embed/oKWEXU8i5oc]
+> [!Video https://www.youtube.com/embed/oKWEXU8i5oc]
 
 <div id="main" class="v2">
 <div class="container">
