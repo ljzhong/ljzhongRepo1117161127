@@ -6,10 +6,10 @@ layout: HubPage
     <h1>Tools for Apache Cordova</h1>
     <ul class="pivots">
         <li>
-            <a href="#taco">language</a>
+            <a href="#taco">taco</a>
             <ul id="taco">
                 <li>
-                    <a href="#taco1">language</a>
+                    <a href="#taco1">taco1</a>
                     <ul id="taco1" class="cardsZ">
                         <li>
                             <a href="~/first-steps/vs-taco-2017-intro">
@@ -17,7 +17,7 @@ layout: HubPage
                                 <div class="cardPadding">
                                     <div class="card">
                                         <div class="cardText">
-                                            <h3>Tools Overview</h3>
+                                            <h3>What the Tools Do for You</h3>
                                             <p>How the Tools help you build a cross-platform, mobile application using JavaScript, HTML, and CSS.</p>
                                         </div>
                                     </div>
@@ -26,13 +26,13 @@ layout: HubPage
                             </a>
                         </li>
                         <li>
-                            <a href="https://go.microsoft.com/fwlink/?linkid=835686">
+                            <a href="~/first-steps/vs-taco-2017-install">
                             <div class="cardSize">
                                 <div class="cardPadding">
                                     <div class="card">
                                         <div class="cardText">
-                                            <h3>Get Started with C++</h3>
-                                            <p>A quick tour of the IDE and writing your first program.</p>
+                                            <h3>Setup and Installation</h3>
+                                            <p>How to install Tools for Apache Cordova with the right environment to create, manage and test application projects on the platforms of your choosing.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -40,13 +40,13 @@ layout: HubPage
                             </a>
                         </li>
                         <li>
-                            <a href="https://go.microsoft.com/fwlink/?linkid=835686">
+                            <a href="~/first-steps/vs-taco-2017-ios-guide">
                             <div class="cardSize">
                                 <div class="cardPadding">
                                     <div class="card">
                                         <div class="cardText">
-                                            <h3>Get Started with C++</h3>
-                                            <p>A quick tour of the IDE and writing your first program.</p>
+                                            <h3>iOS Setup Guide</h3>
+                                            <p>Pair a Mac to your local machine to build iOS apps using Tools for Apache Cordova.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -54,13 +54,13 @@ layout: HubPage
                             </a>
                         </li>
                         <li>
-                            <a href="https://go.microsoft.com/fwlink/?linkid=835686">
+                            <a href="~/">
                             <div class="cardSize">
                                 <div class="cardPadding">
                                     <div class="card">
                                         <div class="cardText">
-                                            <h3>Get Started with C++</h3>
-                                            <p>A quick tour of the IDE and writing your first program.</p>
+                                            <h3>First App Guide</h3>
+                                            <p>A quick tour of the Tools and start writing your first Android/Windows app.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -68,13 +68,13 @@ layout: HubPage
                             </a>
                         </li>
                         <li>
-                            <a href="https://go.microsoft.com/fwlink/?linkid=835686">
+                            <a href="~/ui-frameworks/tutorial-ionic2">
                             <div class="cardSize">
                                 <div class="cardPadding">
                                     <div class="card">
                                         <div class="cardText">
-                                            <h3>Get Started with C++</h3>
-                                            <p>A quick tour of the IDE and writing your first program.</p>
+                                            <h3>Easy UI with Ionic 2</h3>
+                                            <p>The most popular library for Cordova developers, with assets that tailor to the OS you're using.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -82,13 +82,13 @@ layout: HubPage
                             </a>
                         </li>
                         <li>
-                            <a href="https://go.microsoft.com/fwlink/?linkid=835686">
+                            <a href="~/samples/cordova-samples">
                             <div class="cardSize">
                                 <div class="cardPadding">
                                     <div class="card">
                                         <div class="cardText">
-                                            <h3>Get Started with C++</h3>
-                                            <p>A quick tour of the IDE and writing your first program.</p>
+                                            <h3>Samples & Examples</h3>
+                                            <p>Apps we made or just love, show casing today's best-of-breed frameworks and techniques.</p>
                                         </div>
                                     </div>
                                 </div>
