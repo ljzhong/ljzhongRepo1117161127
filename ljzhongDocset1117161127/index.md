@@ -6,9 +6,11 @@ layout: HubPage
     <h1>Tools for Apache Cordova</h1>
     <ul class="pivots">
         <li>
-            <ul>
+            <a href="#language">language</a>
+            <ul id="language">
                 <li>
-                    <ul class="cardsZ">
+                    <a href="#language1">language</a>
+                    <ul id="language1" class="cardsZ">
                         <li>
                             <a href="~/first-steps/vs-taco-2017-intro">
                             <div class="cardSize">
@@ -37,6 +39,7 @@ layout: HubPage
                             </div>
                             </a>
                         </li>
+
                     </ul>
                 </li>
             </ul>
