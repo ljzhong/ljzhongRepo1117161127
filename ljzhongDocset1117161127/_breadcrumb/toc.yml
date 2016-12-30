@@ -1,3 +1,18 @@
 - name: Tools for Apache Cordova
   tocHref: /ljzhongdocset1117161127/
   topicHref: /ljzhongdocset1117161127/index
+  - name: "Get Started: What our Tools do for you"
+    tocHref: /ljzhongdocset1117161127/first-steps/vs-taco-2017-intro/
+    topicHref: /ljzhongdocset1117161127/index
+  - name: "Get Started: Install the Tools"
+    tocHref: /ljzhongdocset1117161127/first-steps/vs-taco-2017-install/
+    topicHref: /ljzhongdocset1117161127/index
+  - name: "Get Started: Set up your iOS builds"
+    tocHref: /ljzhongdocset1117161127/first-steps/vs-taco-2017-ios-guide/
+    topicHref: /ljzhongdocset1117161127/index
+  - name: "Get Started: Build your first app"
+    tocHref: /ljzhongdocset1117161127/first-steps/vs-taco-2017-first-app/
+    topicHref: /ljzhongdocset1117161127/index
+  - name: "Get Started: Migrate from VS2015"
+    tocHref: /ljzhongdocset1117161127/first-steps/vs-taco-2017-migration/
+    topicHref: /ljzhongdocset1117161127/index
