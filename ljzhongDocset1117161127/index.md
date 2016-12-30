@@ -4,6 +4,9 @@ layout: HubPage
 <div id="main" class="v2">
 <div class="container">
     <h1>Tools for Apache Cordova</h1>
+
+    [!Video https://www.youtube.com/watch?v=oKWEXU8i5oc]
+
     <ul class="pivots">
         <li>
             <a href="#taco">taco</a>
